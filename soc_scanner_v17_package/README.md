@@ -14,7 +14,7 @@ cd soc_scanner
 sudo bash socscan.sh --all
 
 ## Modules
-
+```text
 runtime
 network
 ports
@@ -25,3 +25,4 @@ users
 persistence
 rootkit
 entropy
+```
