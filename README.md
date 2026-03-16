@@ -5,11 +5,11 @@ Portable Linux security / incident response scanner.
 
 ## Quick Run from GitHub
 
-bash <(curl -s https://raw.githubusercontent.com/YOURUSER/soc_scanner/main/run) --all
+bash <(curl -s https://raw.githubusercontent.com/Greedtik/soc_scanner/main/run) --all
 
 ## Clone and Run
 
-git clone https://github.com/YOURUSER/soc_scanner.git
+git clone https://github.com/Greedtik/soc_scanner.git
 cd soc_scanner
 sudo bash socscan.sh --all
 
