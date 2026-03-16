@@ -1,7 +1,6 @@
 #!/bin/bash
 
 TMP="/tmp/socscan"
-
 REPO="https://github.com/Greedtik/soc-scanner/archive/refs/heads/main.tar.gz"
 
 echo "Downloading SOC Scanner..."
