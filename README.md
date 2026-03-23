@@ -5,7 +5,7 @@ Portable Linux security / incident response scanner.
 
 ## Quick Run from GitHub
 
-bash <(curl -s https://raw.githubusercontent.com/Greedtik/soc_scanner/main/run) --all
+bash <(curl -s https://raw.githubusercontent.com/Greedtik/soc-scanner/refs/heads/main/run) --all
 
 ## Clone and Run
 
